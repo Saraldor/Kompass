@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kompass</string>
+    <string name="reset">RESET</string>
+    <string name="pil">PIL</string>
+</resources>
